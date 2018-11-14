@@ -1,4 +1,4 @@
 <?php
 
-include_once 'includes/autoloader.php';
+include_once 'library/View.php';
 
