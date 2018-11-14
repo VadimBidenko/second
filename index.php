@@ -1,6 +1,6 @@
 <?php
 
 include_once 'includes/autoloader.php';
-$view=new View('front_template.php', null);
+$view=new View('index_view.php', null);
 $view->render();
 
